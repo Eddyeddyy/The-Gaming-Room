@@ -1,6 +1,7 @@
 # The-Gaming-Room
 
 The Gaming Room is a client that wanted to develop a web-based game that would serve on multiple platforms that is based on their current game "Draw It or Lose It."
+I created a sofwtare design document that illustrates my client and their needs.
 The one thing that I did really well with this software design template was to understand the clients requirements and display those requirements in the executive 
 summary and identify the design constraints. It is important to understand the clients needs and requirements, not only because its what is required, but it also helps
 in the design of the program as well. With the clients needs in mind we can design a program that is best suited for them and find ways to combat any problems that may arise.
